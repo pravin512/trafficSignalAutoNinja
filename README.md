@@ -10,7 +10,7 @@
  
  3. Composer install.
  
- 4. Import the .sql file into your phpMyadmin DataBase name must be "trafficSignal" (according to .env file)
+ 4. Import the trafficSignal.sql file (located in project file "trafficSignalAutoNinja/database") into your phpMyadmin DataBase name must be "trafficSignal" (according to .env file)
  
  5. change the DB_PASSWORD and DB_USERNAME from .env file and set it according to your phpmyadmin setup. (in my case both are root).
  
